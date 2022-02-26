@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.secion-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.counter-box{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+hr{
+    margin: 40px 0;
+}
+
+.btn{
+    padding: 15px 36px;
+    border: none;
+    margin: 20px;
+}
